@@ -97,6 +97,11 @@
     </build>
 
     <dependencies>
+	<dependency>
+    <groupId>speclj-growl</groupId>
+    <artifactId>speclj-growl</artifactId>
+    <version>1.0.0</version>
+</dependency>    
         <dependency>
 		<groupId>com.h2database</groupId>
 		<artifactId>h2</artifactId>
